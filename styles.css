@@ -188,7 +188,7 @@ button,input{font:inherit}
 
 .event-image{
   width:100%;
-  aspect-ratio:2/3;
+  aspect-ratio:1/1;
   object-fit:cover;
 }
 

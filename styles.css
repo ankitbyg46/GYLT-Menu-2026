@@ -188,13 +188,13 @@ button,input{font:inherit}
 
 .event-image{
     width:100%;
-    max-width:540px;      /* Controls how large it appears */
-    aspect-ratio:4/5;     /* 1080 × 1350 ratio */
+    max-width:450px;      /* Adjust this number to make it larger/smaller */
+    aspect-ratio:4/5;     /* Instagram portrait ratio (1080 × 1350) */
     object-fit:cover;
     object-position:center;
     display:block;
     margin:auto;
-    border-radius:10px;
+    border-radius:12px;
 }
 
 .event-date{

@@ -22,7 +22,6 @@ const els={
   clearSearch:$("clearSearch"),
 
   gyltLogo:$("gyltLogo"),
-  gyltWordmark:$("gyltWordmark"),
   footerLogo:$("footerLogo"),
 
   heroTitle:$("heroTitle"),

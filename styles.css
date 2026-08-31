@@ -187,10 +187,11 @@ button,input{font:inherit}
 }
 
 .event-image{
-    width:min(100%,500px);
-    aspect-ratio:4/5;
-    object-fit:cover;
-    border-radius:12px;
+    width:100%;
+    height:auto;
+    object-fit:contain;
+    display:block;
+    margin:auto;
 }
 
 .event-date{

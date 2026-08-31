@@ -1,1 +1,0 @@
-Keep your existing gylt-logo.png or use its hosted URL in the Assets sheet.

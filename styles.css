@@ -182,18 +182,14 @@ button,input{font:inherit}
 }
 
 .event-grid{
-  display:grid;
-  gap:22px;
+    display:flex;
+    justify-content:center;
 }
 
 .event-image{
-    width:100%;
-    max-width:450px;      /* Adjust this number to make it larger/smaller */
-    aspect-ratio:4/5;     /* Instagram portrait ratio (1080 × 1350) */
+    width:min(100%,500px);
+    aspect-ratio:4/5;
     object-fit:cover;
-    object-position:center;
-    display:block;
-    margin:auto;
     border-radius:12px;
 }
 

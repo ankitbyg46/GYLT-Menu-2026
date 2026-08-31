@@ -1,5 +1,5 @@
 const CONFIG={
-  SHEET_ID:"PASTE_YOUR_GOOGLE_SHEET_ID",
+  SHEET_ID:"1rzDtnYnKRoQ2tyWAsrMzApNNgGcbVNKUPzn8GdrJsOQ",
   MENU_SHEET:"Menu",
   SETTINGS_SHEET:"Settings",
   ASSETS_SHEET:"Assets",

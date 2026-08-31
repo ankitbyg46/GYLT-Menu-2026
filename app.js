@@ -3,7 +3,7 @@ const CONFIG={
   MENU_SHEET:"Menu",
   SETTINGS_SHEET:"Settings",
   ASSETS_SHEET:"Assets",
-  REFRESH_MINUTES:3
+  REFRESH_MINUTES:1
 };
 
 const state={rows:[],search:"",assets:{}};
